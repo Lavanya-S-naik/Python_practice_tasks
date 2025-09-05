@@ -6,49 +6,49 @@ This repository contains solutions to 5 Python practice tasks, covering differen
 The tasks are implemented in simple and beginner-friendly Python code, with outputs printed clearly for better understanding.
 
 ## 📝 Tasks
-1️⃣ Palindrome Checker
+**1️⃣ Palindrome Checker**
 
-Write a Python function to check if a string is a palindrome (reads the same forward and backward). The string is taken from user input.
+  Write a Python function to check if a string is a palindrome (reads the same forward and backward). The string is taken from user input.
 
-2️⃣ Squares of Numbers
+**2️⃣ Squares of Numbers**
 
-Given a list of numbers, use list comprehension to create a new list containing their squares.
+  Given a list of numbers, use list comprehension to create a new list containing their squares.
 
-3️⃣ Students DataFrame
+**3️⃣ Students DataFrame**
 
-Create a DataFrame of 5 students with their marks and find out which students scored more than 80 marks.
+  Create a DataFrame of 5 students with their marks and find out which students scored more than 80 marks.
 
-4️⃣ 5x5 Random Array
+**4️⃣ 5x5 Random Array**
 
-Create a 5x5 NumPy array with random integers between 1 and 100.
+  Create a 5x5 NumPy array with random integers between 1 and 100.
 
-5️⃣ Products DataFrame
+**5️⃣ Products DataFrame**
 
-Create a DataFrame of products with the following columns:
+  Create a DataFrame of products with the following columns:
 
-Product Name
+  Product Name
 
-Price
+  Price
 
-Category
+  Category
 
-Add a new column Discounted Price = 90% of Price.
-Finally, filter and display products that are cheaper than 500.
+  Add a new column Discounted Price = 90% of Price.
+  Finally, filter and display products that are cheaper than 500.
 
-🚀 How to Run
+## 🚀 How to Run
 
-Clone the repository:
+  Clone the repository:
+  
+  git clone https://github.com/Lavanya-S-naik/Python_practice_tasks.git
+  cd Python_practice_tasks
 
-git clone https://github.com/Lavanya-S-naik/Python_practice_tasks.git
-cd Python_practice_tasks
 
-
-Run the scripts in VS Code or any Python environment:
-
-python task1.py
-python task2.py
-...
-python task5.py
+  Run the scripts in VS Code or any Python environment:
+  
+  python task1.py
+  python task2.py
+  ...
+  python task5.py
 
 
 If all solutions are in a Jupyter Notebook (PythonTasks.ipynb):
